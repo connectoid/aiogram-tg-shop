@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Tokens
-./settings/bot_config.py
+bot_config.py
 
 #Database settings
-./settings/database_config.py
+database_config.py

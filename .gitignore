@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Tokens
+./settings/bot_config.py
+
+#Database settings
+./settings/database_config.py
